@@ -1,6 +1,5 @@
 
-# 💫 Hi I'm Hariom
-🔭 I’m currently working in Web Dev and Data Analysis<br>🏫 Studying Computer Science at Delhi University<br>🤝 I’m looking to contribute to the Web Dev community<br>🌱 I’m currently learning Data Analysis and Backend<br>💬 Ask me about Music, Films, Code and Tea<br>
+<code>Hi I'm Hariom</code>
 
 
 ## 🌐 Socials:
